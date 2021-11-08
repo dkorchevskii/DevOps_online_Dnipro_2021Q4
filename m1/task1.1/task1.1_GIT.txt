@@ -1,0 +1,21 @@
+c79b080 HEAD@{0}: merge develop: Fast-forward
+e52f05e HEAD@{1}: checkout: moving from develop to main
+c79b080 HEAD@{2}: commit (merge): Images ans styles branches are merged into develop, conflict resolved in index.html
+39fb87c HEAD@{3}: reset: moving to HEAD
+39fb87c HEAD@{4}: merge images: Fast-forward
+6d72cb3 HEAD@{5}: checkout: moving from styles to develop
+899f4a7 HEAD@{6}: commit: Styles source added to index.html
+8a465d1 HEAD@{7}: commit: New folder styles with styles.css file inside
+6d72cb3 HEAD@{8}: checkout: moving from develop to styles
+6d72cb3 HEAD@{9}: checkout: moving from images to develop
+39fb87c HEAD@{10}: checkout: moving from develop to images
+6d72cb3 HEAD@{11}: checkout: moving from styles to develop
+c04a122 HEAD@{12}: commit: New folder styles with styles.css file inside
+39fb87c HEAD@{13}: checkout: moving from images to styles
+39fb87c HEAD@{14}: commit: Added image sources to index.html
+56f2d38 HEAD@{15}: commit: New folder images with some image files inside
+6d72cb3 HEAD@{16}: checkout: moving from develop to images
+6d72cb3 HEAD@{17}: commit: New empty file index.html
+e52f05e HEAD@{18}: checkout: moving from main to develop
+e52f05e HEAD@{19}: commit: First commit. Empty file readme.txt has been added
+50e32c3 HEAD@{20}: clone: from github.com:dkorchevskii/DevOps_online_Dnipro_2021Q4.git
