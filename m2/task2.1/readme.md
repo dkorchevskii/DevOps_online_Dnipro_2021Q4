@@ -29,7 +29,7 @@ Works with all server platforms, has its own kernel similar to Linux, but with o
 # PART 2. WORK WITH VIRTUALBOX
 
 ![alt text](https://github.com/dkorchevskii/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/Screenshots/3.JPG?raw=true)
-![alt text](https://github.com/dkorchevskii/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/Screenshots/5.jpg?raw=true)
+![alt text](https://github.com/dkorchevskii/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/Screenshots/5.JPG?raw=true)
 ![alt text](https://github.com/dkorchevskii/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/Screenshots/1.JPG?raw=true)
 ![alt text](https://github.com/dkorchevskii/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/Screenshots/2.JPG?raw=true)
 ![alt text](https://github.com/dkorchevskii/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/Screenshots/4.JPG?raw=true)
